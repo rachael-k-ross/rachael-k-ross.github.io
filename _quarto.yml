@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "rachael-k-ross.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - text: "CV"
+        href: images/CV.pdf
+    right:
+      - icon: fa-envelope fa-lg
+        href: mailto:rachael.k.ross@columbia.edu
+      - icon: fa-github fa-lg
+        href: https://github.com/rachael-k-ross
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: true
+
+editor: visual
