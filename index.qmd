@@ -22,7 +22,7 @@ Postdoctoral Research Scientist <br> Department of [Epidemiology](https://www.pu
 
 <br>
 
-<center><img src="images/headshot.JPG" style="width:45%; border:5px solid"/></center>
+<center><img src="images/headshot.JPG" style="width:30%; border:5px solid"/></center>
 
 <br>
 
