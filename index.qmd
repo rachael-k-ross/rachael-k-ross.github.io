@@ -1,7 +1,9 @@
 ---
-title: "Rachael K. Ross, MPH, PhD"
+title: "Rachael K. Ross, PhD, MPH"
 output: html_document
 ---
+
+```{=html}
 <style>
 a:link {
     color: #1D4F91;
@@ -15,30 +17,23 @@ a:visited {
     color: #1D4F91;
 }
 </style>
-
-Postdoctoral Research Scientist <br>
-Department of [Epidemiology](https://www.publichealth.columbia.edu/academics/departments/epidemiology) <br>
-[Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br>
-[Columbia University](https://www.columbia.edu/) <br>
+```
+Postdoctoral Research Scientist <br> Department of [Epidemiology](https://www.publichealth.columbia.edu/academics/departments/epidemiology) <br> [Mailman School of Public Health](https://www.publichealth.columbia.edu/) <br> [Columbia University](https://www.columbia.edu/) <br>
 
 <br>
 
-<center>
-<img src="images/headshot.JPG" style="width:45%; border:5px solid">
-</center>
+<center><img src="images/headshot.JPG" style="width:45%; border:5px solid"/></center>
 
 <br>
 
 ## About
-I am an epidemiologist with training and research experience in pharmacoepidemiology and causal inference. Broadly, my research aims to develop and apply novel quantitative methods to advance evidence-based clinical care and improve health care delivery. In my postodctoral fellowship, I work with [Dr. Kara Rudolph](https://kararudolph.github.io/) of Columbia and [Dr.Elizabeth Stuart](https://www.elizabethstuart.org/) of Johns Hopkins University on their grant, [Design and analysis advances to improve generalizability of clinical trials for treatment opioid use disorder (R01DA056407)](https://reporter.nih.gov/search/6RyGc9zdVEawgTj62h-FoQ/project-details/10701751).   <br>
 
-I completed a PhD in Epidemiology with a Minor in Biostatistics at the [University of North Carolina Gillings School of Global Public Health](https://sph.unc.edu/) under the mentorship of [Dr. Steve Cole](https://sph.unc.edu/adv_profile/stephen-r-cole-phd/) in 2023. My dissertation research focused on methods for missing data and measurement error in a causal inference framework. Previously, I completed an MPH at [Emory University Rollins School of Public Health](https://sph.emory.edu/) in 2011 and worked at the [Children's Hospital of Philadelphia Center for Pediatric Clinical Effectiveness (now Clinical Futures)](https://clinicalfutures.research.chop.edu/) under the mentorship of [Dr. Jeff Gerber](https://www.research.chop.edu/people/jeffrey-s-gerber), 2011-2018. My reseach at CHOP supported and informed Antimicrobial Stewardship efforts, which are patient safety and quality improvement initiatives aimed at reducing antimicrobial overuse to improve clinical outcomes and combat antimicrobial resistance. 
+I am an epidemiologist with training and research experience in pharmacoepidemiology and causal inference. Broadly, my research aims to develop and apply novel quantitative methods to advance evidence-based clinical care and improve health care delivery. In my postodctoral fellowship, I work with [Dr. Kara Rudolph](https://kararudolph.github.io/) of Columbia and [Dr.Elizabeth Stuart](https://www.elizabethstuart.org/) of Johns Hopkins University on their grant, [Design and analysis advances to improve generalizability of clinical trials for treatment opioid use disorder (R01DA056407)](https://reporter.nih.gov/search/6RyGc9zdVEawgTj62h-FoQ/project-details/10701751). <br>
+
+I completed a PhD in Epidemiology with a Minor in Biostatistics at the [University of North Carolina Gillings School of Global Public Health](https://sph.unc.edu/) under the mentorship of [Dr. Steve Cole](https://sph.unc.edu/adv_profile/stephen-r-cole-phd/) in 2023. My dissertation research focused on methods for missing data and measurement error in a causal inference framework. Previously, I completed an MPH at [Emory University Rollins School of Public Health](https://sph.emory.edu/) in 2011 and worked at the [Children's Hospital of Philadelphia Center for Pediatric Clinical Effectiveness (now Clinical Futures)](https://clinicalfutures.research.chop.edu/) under the mentorship of [Dr. Jeff Gerber](https://www.research.chop.edu/people/jeffrey-s-gerber), 2011-2018. My reseach at CHOP supported and informed Antimicrobial Stewardship efforts, which are patient safety and quality improvement initiatives aimed at reducing antimicrobial overuse to improve clinical outcomes and combat antimicrobial resistance.
 
 <br>
 
 ## Contact Information
-Rachael K. Ross, MPH, PhD <br>
-Email: [rachael.k.ross@columbia.edu](mailto:rr3551@columbia.edu) <br>
-[GitHub](https://github.com/rachael-k-ross) <br>
-[NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/rachael.ross.1/bibliography/public/) <br>
-[Google Scholar](https://scholar.google.com/citations?user=tUC_BwkAAAAJ&hl=en) <br>
+
+Rachael K. Ross, MPH, PhD <br> Email: [rachael.k.ross\@columbia.edu](mailto:rr3551@columbia.edu) <br> [GitHub](https://github.com/rachael-k-ross) <br> [NCBI Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/rachael.ross.1/bibliography/public/) <br> [Google Scholar](https://scholar.google.com/citations?user=tUC_BwkAAAAJ&hl=en) <br>
